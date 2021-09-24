@@ -1,0 +1,5 @@
+Employed Pandas and Seaborn libraries in Python for data visualization, Univariate and Bivariate analysis, and pre-processing of a highly imbalanced dataset containing credit card transactions data
+Implemented multiple statistical and Machine Learning algorithms like Logistic Regression, kNearest Neighbors, Decision Tree, and Random Forest achieving classification recall up to 93%
+Benchmarked the performance of the models on the basis of theirF1 scores and Confusion Matrix,
+and plotted the ROC curves, observed that Logistic Regression delivers the best results of all models
+Prediction of Ads Revenue of DeltaX, a digital advertising platform Jul'21 - Aug'21
